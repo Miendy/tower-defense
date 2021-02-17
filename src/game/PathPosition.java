@@ -22,8 +22,8 @@ public class PathPosition
 	/**
 	 * Constructor:  Sets up this path position to be at the start
 	 * 
-	 * @param path
-	 */
+	 * @param path.
+	 **/
 	PathPosition(List<Coordinate> points)
 	{	// Initializes variables
 		

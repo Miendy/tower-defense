@@ -11,7 +11,7 @@ public class StarDust extends Effect
 	{
 		// Loads star dust image
 		ImageLoader loader = ImageLoader.getLoader();
-		this.picture = loader.getImage("resources/star_dust.png");
+		this.picture = loader.getImage("resources/arrow.png");
 		
 		// X and Y position of Effect
 		this.posX = pos.x;
